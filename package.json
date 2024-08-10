@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://natashagonzalez7.github.io/webdev",
+    "homepage": "https://github.com/natashagonzalez7/webdev.git",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 
