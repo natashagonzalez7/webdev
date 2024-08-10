@@ -1,0 +1,58 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.dark-theme {
+    background-color: #333;
+    color: #fff;
+}
+
+.serif-font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Image Enlarger */
+img {
+    max-width: 100%;
+    transition: transform 0.3s ease;
+}
+
+img.enlarged {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+/* Navigation */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/* Controls */
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 10px;
+    padding: 5px 10px;
+}
+
+/* style.css */
+
+img {
+    max-width: 100%;
+    transition: transform 0.3s ease;
+}
+
+img.zoomed {
+    transform: scale(1.5);
+    cursor: pointer;
+}
