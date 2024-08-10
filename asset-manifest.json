@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd6c4d73.css",
+    "main.js": "/static/js/main.a4ed9bea.js",
+    "static/js/453.27d32739.chunk.js": "/static/js/453.27d32739.chunk.js",
+    "static/media/curly-hair.jpeg": "/static/media/curly-hair.5e7b601636171204d210.jpeg",
+    "static/media/prom-images.jpg": "/static/media/prom-images.e546e7f879b3d7d282d6.jpg",
+    "static/media/hair.webp": "/static/media/hair.72702538393333e627d6.webp",
+    "index.html": "/index.html",
+    "main.cd6c4d73.css.map": "/static/css/main.cd6c4d73.css.map",
+    "main.a4ed9bea.js.map": "/static/js/main.a4ed9bea.js.map",
+    "453.27d32739.chunk.js.map": "/static/js/453.27d32739.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6c4d73.css",
+    "static/js/main.a4ed9bea.js"
+  ]
+}
